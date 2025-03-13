@@ -1,6 +1,29 @@
-- 👋 Hi, I’m @AYUHSPATIL
-- 👀 I’m interested in Data Science, Applications of ML and DL
-- 🌱 I’m currently studying at IIT Delhi
-- 📫 How to reach me -->** linkedin.com/in/ayush-patil45**
-- ⚡ Fun fact: "Training models by day, debugging them by night — AI is my caffeine!"😅
-  
+# 👋🏻 Hey there, I'm **@AYUHSPATIL**  
+
+🚀 **Aspiring Data Scientist | ML & DL Enthusiast**  
+
+💡 **Currently studying at [IIT Delhi](https://home.iitd.ac.in/)**  
+
+---
+
+## 🔍 About Me  
+- 👀 **Passionate about**: Data Science, AI Applications, and Deep Learning  
+- 🛠 **Exploring**: Machine Learning & its real-world impact  
+- 🌱 **Currently Learning**: Advanced ML, DL techniques & their applications  
+
+---
+
+## 📫 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-patil45)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-profile/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+
+---
+
+⚡ **Fun Fact**: *"Training models by day, debugging them by night — AI is my caffeine!"* 😅  
+
+---
+
+### 🚀 Let’s connect and innovate together!  
+
