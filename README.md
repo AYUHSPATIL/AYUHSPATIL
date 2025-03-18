@@ -2,7 +2,7 @@
 
 🚀 **Aspiring Data Scientist | ML & DL Enthusiast**  
 
-💡 **Currently studying at [IIT Delhi](https://home.iitd.ac.in/)**  
+💡 **Currently studying at [IIT Delhi]()**  
 
 ---
 
