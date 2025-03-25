@@ -25,4 +25,4 @@
 
 ---
 
-### 🚀 Let’s connect and innovate together!  
+### 🚀 Let’s connect and innovate together !!
